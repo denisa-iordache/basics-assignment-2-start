@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  username = 'Enter ther username';
+  username = 'Enter a username';
 
   resetUsername(){
     this.username = '';
